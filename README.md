@@ -1,3 +1,9 @@
+# What this project is
+
+This project is me learning the platform react following the guide provide by JavascriptMastery at the link below.
+
+https://www.youtube.com/watch?v=F627pKNUCVQ&t=32456s&ab_channel=JavaScriptMastery
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
