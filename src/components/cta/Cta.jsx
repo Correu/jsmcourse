@@ -1,12 +1,12 @@
 import React from 'react'
+import './cta.css'
 
-
-const App = () => {
+const Cta = () => {
   return (
     <div>
-      <h1>Test</h1>
+      
     </div>
   )
 }
 
-export default App
+export default Cta
